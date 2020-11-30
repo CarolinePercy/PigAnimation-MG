@@ -1,0 +1,6 @@
+﻿  Game.cpp
+  Player.cpp
+  Source.cpp
+  Generating Code...
+E:\Work\Second Year\Motion Graphics\Labs\Pig Animation\SFMLProject\SFMLProject\Game.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SFMLProject.vcxproj -> E:\Work\Second Year\Motion Graphics\Labs\Pig Animation\SFMLProject\Debug\SFMLProject.exe

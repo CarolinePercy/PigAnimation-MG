@@ -1,0 +1,17 @@
+﻿  Source.cpp
+E:\Work\Second Year\Motion Graphics\Labs\Lab 3\SFMLProject\SFMLProject\Source.cpp(68,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Work\Second Year\Motion Graphics\Labs\Lab 3\SFMLProject\SFMLProject\Source.cpp(69,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Work\Second Year\Motion Graphics\Labs\Lab 3\SFMLProject\SFMLProject\Source.cpp(94,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Work\Second Year\Motion Graphics\Labs\Lab 3\SFMLProject\SFMLProject\Source.cpp(95,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Work\Second Year\Motion Graphics\Labs\Lab 3\SFMLProject\SFMLProject\Source.cpp(98,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Work\Second Year\Motion Graphics\Labs\Lab 3\SFMLProject\SFMLProject\Source.cpp(111,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Work\Second Year\Motion Graphics\Labs\Lab 3\SFMLProject\SFMLProject\Source.cpp(149,36): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Work\Second Year\Motion Graphics\Labs\Lab 3\SFMLProject\SFMLProject\Source.cpp(150,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Work\Second Year\Motion Graphics\Labs\Lab 3\SFMLProject\SFMLProject\Source.cpp(151,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Work\Second Year\Motion Graphics\Labs\Lab 3\SFMLProject\SFMLProject\Source.cpp(174,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Work\Second Year\Motion Graphics\Labs\Lab 3\SFMLProject\SFMLProject\Source.cpp(307,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Work\Second Year\Motion Graphics\Labs\Lab 3\SFMLProject\SFMLProject\Source.cpp(317,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Work\Second Year\Motion Graphics\Labs\Lab 3\SFMLProject\SFMLProject\Source.cpp(321,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Work\Second Year\Motion Graphics\Labs\Lab 3\SFMLProject\SFMLProject\Source.cpp(332,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Work\Second Year\Motion Graphics\Labs\Lab 3\SFMLProject\SFMLProject\Source.cpp(356,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
